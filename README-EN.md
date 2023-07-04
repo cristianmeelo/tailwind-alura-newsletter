@@ -43,7 +43,7 @@ Check out this list of everything we will use in this app:
 
 To open and run the project, add the Live Server extension, click on the `Go Live` button usually located in the lower right corner if you are using vscode.
 
-Then go to <a href="http://localhost:3000/">http://localhost:3000/</a> in your browser.
+Then go to http://127.0.0.1:5500/ in your browser.
 
 ## 📚 More tutorial information
 
