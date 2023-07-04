@@ -11,15 +11,15 @@
   </tr>
 </table>
 
-![](https://github.com/cristianmeelo/react-redux-tool/blob/main/thumbnail-en.png?raw=true#vitrinedev)
+![](https://github.com/cristianmeelo/tailwind-alura-newsletter/blob/main/thumbnail-en.png?raw=true#vitrinedev)
 
-# FakeShop
+# Alura Newsletter
 
-Fakeshop is a virtual e-commerce store.There, you can access a product and see its details.
+A newsletter built on the power of tailwind, uniquely animated and built with the concept of mobile first.
 
 <img src="screencapture.png" alt="Image App" >
 <div align="center">
-<a href="https://react-redux-ecommerce-boibfst0v-cristianmeelo.vercel.app/">
+<a href="https://tailwind-alura-newsletter.vercel.app/">
   <img src="https://img.shields.io/badge/-check%20here-lightgrey"
   alt="Image App" >
 </a>
@@ -27,33 +27,31 @@ Fakeshop is a virtual e-commerce store.There, you can access a product and see i
 
 ## 🔨 Project features
 
-FakeShop is an online e-commerce. For the design, the semantic UI framework was used, providing more time for the development of state management. Using axios, accessing the page of each product makes the API call easy to read. Using redux in the app, i fixed the concepts before bringing them to the company's projects that I work. Typescript comes as icing on the cake adds robustness to the project.
+Alura Newsletter is a newsletter project application, with the main purpose of knowing the tailwind potential. A newsletter serves to keep people informed and engaged with relevant content. It can be used to share updates about products, news, tips, events, promotions and other content related to the interest of the target audience. To apply the design of the project, the tailwind CSS was used, said to be a CSS structure of first use for the quick creation of modern websites without leaving HTML.
 
 ## ⚙️ Techniques and technologies used
 
 Check out this list of everything we will use in this app:
 
-- `React`
-- `Vite`
-- `TypeScript`
-- `Redux`
-- `Semantic UI`
-- `Axios`
+- `HTML`
+- `CSS`
+- `Tailwind`
 - `GitHub`
+- `Vercel`
 
 ## 🛠️ Open and run the project
 
-To open and run the project, run `npm i` to install the dependencies and `npm run dev` to start the project.
+To open and run the project, add the Live Server extension, click on the `Go Live` button usually located in the lower right corner if you are using vscode.
 
 Then go to <a href="http://localhost:3000/">http://localhost:3000/</a> in your browser.
 
 ## 📚 More tutorial information
 
-Fakeshop is a fictitious virtual e-commerce developed from the [Dipesh Malvia](https://www.youtube.com/@DipeshMalvia) tutorial. The main idea of ​​this tutorial implementation is to further evolve knowledge in React and the redux state management tool, implementing reducers, actions and action-types.
+Alura Newsletter is a prototype of a newsletter application, developed from the course of [Tailwind CSS: styling your page with utility classes](https://cursos.alura.com.br/course/tailwind-css-estilizando- utility-classes-page). By taking this course I was able to:
 
 | :placard: Vitrine.Dev |                                                                          |
 | --------------------- | ------------------------------------------------------------------------ |
 | :sparkles: Name       | **Fake Shop**                                                            |
-| :label: Technologies  | React, TypeScript,Redux, Semantic Ui, Axios, GitHub ( used Technologies) |
-| :rocket: URL          | https://react-redux-ecommerce-boibfst0v-cristianmeelo.vercel.app/        |
-| :fire: Challenge      | https://www.youtube.com/watch?v=0W6i5LYKCSI&ab_channel=DipeshMalvia      |
+| :label: Technologies  | HTML, CSS,Redux, Tailwind, GitHub, Vercel( used Technologies) |
+| :rocket: URL          | https://tailwind-alura-newsletter.vercel.app/        |
+| :fire: Challenge      | https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias      |
