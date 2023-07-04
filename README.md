@@ -57,7 +57,7 @@ Alura Newsletter é um protótipo de uma aplicação de newsletter, desenvolvido
 
 | :placard: Vitrine.Dev |                                                                             |
 | --------------------- | --------------------------------------------------------------------------- |
-| :sparkles: Nome       | **Fake Shop**                                                               |
+| :sparkles: Nome       | **Alura Newsletter**                                                               |
 | :label: Tecnologias   | HTML, CSS,Redux, Tailwind, GitHub, Vercel (tecnologias utilizadas) |
 | :rocket: URL          | https://tailwind-alura-newsletter.vercel.app/           |
 | :fire: Desafio        | https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias         |
