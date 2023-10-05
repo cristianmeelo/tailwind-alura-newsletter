@@ -19,7 +19,7 @@
 
 <div align="center">
 <a href="https://tailwind-alura-newsletter.vercel.app/">
-  <img src="https://img.shields.io/badge/-check%20here-lightblue"
+  <img src="https://img.shields.io/badge/-CHECK%20HERE-lightblue"
   alt="Image App" >
 </a>
 </div>
