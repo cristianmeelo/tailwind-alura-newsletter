@@ -15,14 +15,14 @@
 
 ![](https://github.com/cristianmeelo/tailwind-alura-newsletter/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
 
-<br/>
-
 <div align="center">
 <a href="https://tailwind-alura-newsletter.vercel.app/">
   <img src="https://img.shields.io/badge/-CHECK%20HERE-lightblue"
   alt="Image App" >
 </a>
 </div>
+
+<br/>
 
 
 # Alura Newsletter
