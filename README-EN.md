@@ -49,9 +49,9 @@ Then go to http://127.0.0.1:5500/ in your browser.
 
 Alura Newsletter is a prototype of a newsletter application, developed from the course of [Tailwind CSS: styling your page with utility classes](https://cursos.alura.com.br/course/tailwind-css-estilizando- utility-classes-page). By taking this course I was able to:
 
-| :placard: Vitrine.Dev |                                                                          |
-| --------------------- | ------------------------------------------------------------------------ |
-| :sparkles: Name       | **Alura Newsletter**                                                            |
-| :label: Technologies  | HTML, CSS,Redux, Tailwind, GitHub, Vercel( used Technologies) |
-| :rocket: URL          | https://tailwind-alura-newsletter.vercel.app/        |
-| :fire: Challenge      | https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias      |
+| :placard: Vitrine.Dev |                                                                                        |
+| --------------------- | -------------------------------------------------------------------------------------- |
+| :sparkles: Name       | **Alura Newsletter**                                                                   |
+| :label: Technologies  | HTML, CSS,Redux, Tailwind, GitHub, Vercel( used Technologies)                          |
+| :rocket: URL          | https://tailwind-alura-newsletter.vercel.app/                                          |
+| :fire: Challenge      | https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias |

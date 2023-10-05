@@ -15,7 +15,7 @@
 
 # Alura Newsletter
 
-Uma  newsletter construída com o poder do tailwind, singelamente animada e construída com o conceito de mobile first.
+Uma newsletter construída com o poder do tailwind, singelamente animada e construída com o conceito de mobile first.
 
 <img src="screencapture.png" alt="Image App" >
 <div align="center">
@@ -55,9 +55,9 @@ Alura Newsletter é um protótipo de uma aplicação de newsletter, desenvolvido
 - Experimentar estilizar elementos com o uso das classes utilitárias
 - Produzir uma animação do zero para a Alura Newsletter
 
-| :placard: Vitrine.Dev |                                                                             |
-| --------------------- | --------------------------------------------------------------------------- |
-| :sparkles: Nome       | **Alura Newsletter**                                                               |
-| :label: Tecnologias   | HTML, CSS,Redux, Tailwind, GitHub, Vercel (tecnologias utilizadas) |
-| :rocket: URL          | https://tailwind-alura-newsletter.vercel.app/           |
-| :fire: Desafio        | https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias         |
+| :placard: Vitrine.Dev |                                                                                        |
+| --------------------- | -------------------------------------------------------------------------------------- |
+| :sparkles: Nome       | **Alura Newsletter**                                                                   |
+| :label: Tecnologias   | HTML, CSS,Redux, Tailwind, GitHub, Vercel (tecnologias utilizadas)                     |
+| :rocket: URL          | https://tailwind-alura-newsletter.vercel.app/                                          |
+| :fire: Desafio        | https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias |
