@@ -11,18 +11,21 @@
   </tr>
 </table>
 
-![](https://github.com/cristianmeelo/tailwind-alura-newsletter/blob/main/thumbnail.png?raw=true#vitrinedev)
+![](https://github.com/cristianmeelo/tailwind-alura-newsletter/blob/main/thumbnail.png?raw=true)
+
+![](https://github.com/cristianmeelo/tailwind-alura-newsletter/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
+
+<br/>
+
+<div align="center">
+<a href="https://tailwind-alura-newsletter.vercel.app/">
+  <img src="https://img.shields.io/badge/-confira%20aqui-lightblue" alt="Image App" >
+</a>
+</div>
 
 # Alura Newsletter
 
 Uma newsletter construída com o poder do tailwind, singelamente animada e construída com o conceito de mobile first.
-
-<img src="screencapture.png" alt="Image App" >
-<div align="center">
-<a href="https://tailwind-alura-newsletter.vercel.app/">
-  <img src="https://img.shields.io/badge/-confira%20aqui-lightgrey" alt="Image App" >
-</a>
-</div>
 
 ## 🔨 Recursos do projeto
 
